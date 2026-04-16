@@ -148,8 +148,8 @@
 
 @theme {
   /* 컬러 */
-  --color-primary: #ff385c;
-  --color-primary-hover: #e0334d;
+  --color-primary: #4f46e5;
+  --color-primary-hover: #4338ca;
 
   /* max-width */
   --width-content: 1280px;
